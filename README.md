@@ -59,7 +59,7 @@ Its automation capabilities also have a number of additional b
     * Our product automates the process and creates a single platform for online table reservations in restaurants and establishments. The client can book a table for working hours at any time outside of working hours. This will greatly facilitate the work of administrators and save time for customers
 
 ## User Personas
-![User personas]([https://github.com/sarqyt/diplomaProject/blob/main/images/Sitemap.png](https://github.com/sarqyt/diplomaProject/blob/main/images/UserPersonas.png))
+![User personas]((https://github.com/sarqyt/diplomaProject/blob/main/images/UserPersonas.png))
 
 ## User Stories
 User stories | As a <type of user/persona> | I want to <goal/objective> | So that <benefit/result/some reason> |
