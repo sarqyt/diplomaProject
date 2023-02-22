@@ -1,9 +1,9 @@
 # CSS 410 Research tools and methods
 ## Team members
 * Sayan Baikeyev(190103200) - Full-stack developer 
-* Azamat Bektursyn(190103190) - Web/Mobile UI/UX main designer, IOS second developer 
-* Raiymbek Merekeyev(190103157) - IOS main developer 
 * Adilzhan Rymbayev(190103110) - Android main developer 
+* Azamat Bektursyn(190103190) - Web/Mobile UI/UX main designer
+* Raiymbek Merekeyev(190103157) - IOS main developer 
 * Aziz Akilbekov(190103126) - Web/Mobile UI/UX second designer, QA engineer
 ## Project
 This project is an online restaurant booking
