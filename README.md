@@ -1,4 +1,3 @@
-Райымбек Брат, [23 Feb 2023 at 00:54:41]:
 # CSS 410 Research tools and methods
 ## Team members
 * Sayan Baikeyev(190103200) - Full-stack developer 
@@ -65,7 +64,6 @@ Its automation capabilities also have a number of additional b
 ## User Stories
 User stories | As a <type of user/persona> | I want to <goal/objective> | So that <benefit/result/some reason> |
 --- | --- | --- | --- 
-1 | Admin | Check the booking | I can make sure that there are available seats for the client | 
 1 | Admin | Check the booking | I can make sure that there are available seats for 
 2 | Admin | Manage the system | I can add, edit and delete bookings, and manage customer data and availability |
 3 | Admin | See administrative portal | I can rack orders
