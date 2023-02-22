@@ -59,7 +59,7 @@ Its automation capabilities also have a number of additional b
     * Our product automates the process and creates a single platform for online table reservations in restaurants and establishments. The client can book a table for working hours at any time outside of working hours. This will greatly facilitate the work of administrators and save time for customers
 
 ## User Personas
-
+![User personas]([https://github.com/sarqyt/diplomaProject/blob/main/images/Sitemap.png](https://github.com/sarqyt/diplomaProject/blob/main/images/UserPersonas.png))
 
 ## User Stories
 User stories | As a <type of user/persona> | I want to <goal/objective> | So that <benefit/result/some reason> |
@@ -75,7 +75,7 @@ User stories | As a <type of user/persona> | I want to <goal/objective> | So tha
 9 | User | System to have map | I can access the location map of the respective restaurants
 
 ## Sitemap, Page descriptions
-![This is an image](https://github.com/sarqyt/diplomaProject/blob/main/images/Sitemap.png)
+![sitemap](https://github.com/sarqyt/diplomaProject/blob/main/images/Sitemap.png)
 ## Non-Functional requirements
 ##### Non-functional requirements detail constraints, targets or control mechanisms for the new system. They describe how, how well or to what standard a function should be provided.
 * System should be able to handle multiple transactions at one time asynchronously.
